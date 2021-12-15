@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ConnectDatabase/ConnectDatabase.iml" filepath="$PROJECT_DIR$/ConnectDatabase/ConnectDatabase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cmd_connect/cmd_connect.iml" filepath="$PROJECT_DIR$/cmd_connect/cmd_connect.iml" />
+    </modules>
+  </component>
+</project>

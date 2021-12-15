@@ -1,0 +1,3 @@
+# Project exclude paths
+/cmd_connect/node_modules/
+/ConnectDatabase/node_modules/
